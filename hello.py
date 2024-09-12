@@ -11,6 +11,9 @@ password= "Secure123"
 print(password)
 print(type(password))
 
+boolea= True
+print(boolea)
+
 
 
 
